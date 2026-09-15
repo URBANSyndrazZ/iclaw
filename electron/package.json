@@ -1,0 +1,10 @@
+{
+  "name": "iclaw-desktop",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Electron Desktop Shell for iclaw",
+  "main": "dist/main.cjs",
+  "author": "URBANSyndrazZ",
+  "license": "MIT",
+  "homepage": "https://github.com/URBANSyndrazZ/iclaw#readme"
+}
